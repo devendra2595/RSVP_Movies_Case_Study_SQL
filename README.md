@@ -23,8 +23,8 @@ You have to use SQL to analyse the given data and give recommendations to RSVP M
 
 Below are some of the important insights drawn after analysing the data.
 
-- Highest number of movies are produced in March with slightly lesser movie count in Jan, Sept & Oct. These 4 months should be top priority for movie production.
 - An average of 2666 movies were produced per year.
+- Highest number of movies are produced in March with slightly lesser movie count in Jan, Sept & Oct. These 4 months should be top priority for movie production.
 - More than 50% of total movies were produced by India & USA together in 2019 which makes USA a potential market for new project.
 - With a total of 4285 movies, 106 minutes average length and 7.06 average rating(weighted), Drama holds the position of the most popular genre.
 - A hit movie has to surpass almost 90% (median rating above 8) of the movies produced. Highest number of hit movies were given by “Dream Warrior Pictures” or “National Theatre Live” and for multilingual hit movies, “Star Cinema” or “Twentieth Century Fox”. But based on popularity w.r.t. public votes “Marvel Studios” and “Twentieth Century Fox” are leading. Considering all the above facts, “Twentieth Century Fox” would be the most viable production house.
