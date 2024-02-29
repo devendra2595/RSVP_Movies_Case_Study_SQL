@@ -8,7 +8,7 @@ The production company wants to plan their every move analytically based on data
 You have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights.
 
 
-# Used Basic to Advance SQL (MySQL) functions to analyse the given data and give recommendations to RSVP Movies based on the insights.
+# Used Basic to Advance SQL (MySQL) to analyse the given data and give recommendations to RSVP Movies based on the insights.
 
 # Some of the important functions used to analyse the data are:
   - Commom Table Expressions
