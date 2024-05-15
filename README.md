@@ -14,7 +14,6 @@ You have to use SQL to analyse the given data and give recommendations to RSVP M
   - Commom Table Expressions
   - Views
   - Window Function
-  - Rank Function
   - Case statements
   - Joins
   - Subqueries 
